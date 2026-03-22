@@ -40,7 +40,7 @@ traducir un marco normativo en una herramienta operacional reproducible.
 ## Captura del dashboard
 
 ### Página 1 — Vista Operacional Excel (Analista)
-![Página 1](risk_monitoring_&_reporting.png)
+![Página 1](dashboard/risk_monitoring_&_reporting.png)
 
 ---
 ## Cómo navegar el proyecto
