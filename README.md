@@ -37,7 +37,12 @@ traducir un marco normativo en una herramienta operacional reproducible.
 | `imagenes_preview/preview_matriz.png` | Captura de pantalla de la matriz | PNG |
 
 ---
+## Captura del dashboard
 
+### Página 1 — Vista Operacional Excel (Analista)
+![Página 1](risk_monitoring_&_reporting.png)
+
+---
 ## Cómo navegar el proyecto
 
 1. **Empezá por el metodológico** (`metodologia/`) — explica la lógica de ponderación y la regla de escalonamiento automático
